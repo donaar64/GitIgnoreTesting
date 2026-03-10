@@ -1,5 +1,9 @@
+package Controllers;
 import java.util.ArrayList;
 import java.util.List;
+
+import Users.Doctor;
+import Users.Patient;
 
 public class DBController {
 
