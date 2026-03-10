@@ -1,4 +1,9 @@
+package Controllers;
+
 import java.util.List;
+
+import Users.Doctor;
+import Users.Patient;
 
 public class LongTermController {
 	private DBController db;
